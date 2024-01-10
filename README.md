@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # todoslist
 =======
-# Link - https://toodoslist.netlify.app/
+## Link - https://toodoslist.netlify.app/
